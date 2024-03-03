@@ -1,0 +1,14 @@
+/home/andre/RiderProjects/PokerApp/PokerApp/bin/Debug/net8.0/PokerApp
+/home/andre/RiderProjects/PokerApp/PokerApp/bin/Debug/net8.0/PokerApp.deps.json
+/home/andre/RiderProjects/PokerApp/PokerApp/bin/Debug/net8.0/PokerApp.runtimeconfig.json
+/home/andre/RiderProjects/PokerApp/PokerApp/bin/Debug/net8.0/PokerApp.dll
+/home/andre/RiderProjects/PokerApp/PokerApp/bin/Debug/net8.0/PokerApp.pdb
+/home/andre/RiderProjects/PokerApp/PokerApp/obj/Debug/net8.0/PokerApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/andre/RiderProjects/PokerApp/PokerApp/obj/Debug/net8.0/PokerApp.AssemblyInfoInputs.cache
+/home/andre/RiderProjects/PokerApp/PokerApp/obj/Debug/net8.0/PokerApp.AssemblyInfo.cs
+/home/andre/RiderProjects/PokerApp/PokerApp/obj/Debug/net8.0/PokerApp.csproj.CoreCompileInputs.cache
+/home/andre/RiderProjects/PokerApp/PokerApp/obj/Debug/net8.0/PokerApp.dll
+/home/andre/RiderProjects/PokerApp/PokerApp/obj/Debug/net8.0/refint/PokerApp.dll
+/home/andre/RiderProjects/PokerApp/PokerApp/obj/Debug/net8.0/PokerApp.pdb
+/home/andre/RiderProjects/PokerApp/PokerApp/obj/Debug/net8.0/PokerApp.genruntimeconfig.cache
+/home/andre/RiderProjects/PokerApp/PokerApp/obj/Debug/net8.0/ref/PokerApp.dll
